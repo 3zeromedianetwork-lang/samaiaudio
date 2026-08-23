@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.wav
+*.mp3
+*.m4a
+yt_audio_*/
+uploaded_audio_*/
