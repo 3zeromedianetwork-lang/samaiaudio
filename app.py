@@ -86,7 +86,7 @@ with tab1:
                                 "preferredquality": "64", # Use lower quality to stay under 25MB
                             }
                         ],
-                        "ffmpeg_location": r"C:\Users\ASUS\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0-full_build\bin",
+                        
                         "outtmpl": audio_path,
                         "quiet": True,
                         "no_warnings": True,
